@@ -5,6 +5,7 @@
 
 Ctrl + Shift + P    # 打开命令面板
 
+
 Ctrl + P            # 快速打开文件
 
 Ctrl + W            # 关闭当前标签
