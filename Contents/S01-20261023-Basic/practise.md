@@ -1,7 +1,7 @@
 ## VSCode 相关操作
 
 ```bash
-# 基础操作
+# 非基础操作
 
 Ctrl + Shift + P    # 打开命令面板
 
